@@ -1,0 +1,6 @@
+Use the following terminal command to link the files together:
+gcc -Wall -Werror -o exp exp.c add.c
+
+
+run by:
+./exp
