@@ -10,7 +10,7 @@ Comment */
 
 int globalVar = 100;
 
-main() {
+int main() {
     
     char firstLetter = 'B'; 
     
