@@ -6,7 +6,7 @@ Comment */
 #include <stdio.h>
 #include <string.h>
 
-#define MYNAME "Brandon Nguyen"
+#define MYNAME "Brandon Nguyen" // Constant variable
 
 int globalVar = 100;
 
