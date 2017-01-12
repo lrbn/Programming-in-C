@@ -1,3 +1,8 @@
+/**
+* The High-Low Game is a game where one player thinks of a number, 
+* in this case 1 to 100, and then the other player tries to guess 
+* the number by asking repeatedly if the number is larger than certain number. 
+*/
 #include <stdio.h>
 int main(int argc, char** argv) {
     printf("Welcome to the High Low game...\n");
